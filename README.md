@@ -15,13 +15,13 @@ I am building 10 production-grade projects tracking my path from networking foun
 
 | Designation | Project Vector | Core Architecture | Current Status |
 | :--- | :--- | :--- | :--- |
-| **Project 01** | `⚡ Async-Scan` | Multi-Threaded TCP Port Scanner (Python Sockets) | *[IN DEVELOPMENT]* |
-| **Project 02** | `⌨️ System-Hook` | OS Native Keylogger & API Event Auditor (C++) | *[QUEUED]* |
-| **Project 03** | `🦈 Wire-Sniff` | Raw Socket Packet Sniffer & Header Parser (Python) | *[QUEUED]* |
-| **Project 04** | `🛡️ MitM-Forge` | Layer 2 ARP Spoofer & Traffic Manipulation (C++) | *[QUEUED]* |
-| **Project 05** | `📁 Dir-Buster` | Asynchronous Web Hidden Directory Finder (Python) | *[QUEUED]* |
-| **Project 06** | `📡 Vuln-Audit` | Automated Network Vulnerability Auditor (Python) | *[QUEUED]* |
-| **Project 07** | `🔐 Crypt-Chat` | AES/RSA Encrypted Secure Local Chat Network (C++) | *[QUEUED]* |
-| **Project 08** | `🎛️ Command-C2` | Obfuscated C2 Persistence Protocol Agent (Python) | *[QUEUED]* |
-| **Project 09** | `🧬 Inject-Scan` | Process Memory Injector & Core String Scanner (C++)| *[QUEUED]* |
-| **Project 10** | `🌐 Central-Hub` | Automated Interactive Developer Dashboard Portfolio | *[QUEUED]* |
+| **Project 01** | ⚡ Async-Scan | Simple Single-Threaded TCP Port Scanner (Python Sockets) | *[IN DEVELOPMENT]* |
+| **Project 02** | ⌨️ System-Hook | Local Keystroke Event Logger & File Exfiltrator (Python) | *[QUEUED]* |
+| **Project 03** | 🦈 Wire-Sniff | Basic Network Packet Sniffer & IP Analyzer (Python Scapy) | *[QUEUED]* |
+| **Project 04** | 🛡️ MitM-Forge | Local Network Live Host & MAC Address Scanner (Python Scapy) | *[QUEUED]* |
+| **Project 05** | 📁 Dir-Buster | Synchronous Web Directory & Hidden Path Finder (Python) | *[QUEUED]* |
+| **Project 06** | 📡 Vuln-Audit | Automated Service Banner Grabber & OS Detector (Python) | *[QUEUED]* |
+| **Project 07** | 🔐 Crypt-Chat | Plaintext Local Socket Chat with Basic Fernet Encryption (Python) | *[QUEUED]* |
+| **Project 08** | 🎛️ Command-C2 | Basic Remote OS Command Execution Agent (Python Subprocess) | *[QUEUED]* |
+| **Project 09** | 🧬 Inject-Scan | Local System Process Lister & PID Enumerator (Python / C++) | *[QUEUED]* |
+| **Project 10** | 🌐 Central-Hub | Static Developer HTML/CSS/JS Showcase Portfolio | *[QUEUED]* |

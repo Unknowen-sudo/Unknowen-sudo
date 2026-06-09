@@ -9,17 +9,6 @@
 > **PROGRAMMING LANGUAGES** :  
 > <img src="https://www.python.org/static/img/python-logo.png" height="30" alt="Python" /> &nbsp;&nbsp; <img src="https://isocpp.org/assets/images/cpp_logo.png" height="30" alt="C++" />
 
----
-
-## ⚡ Core Operational Capabilities
-
-* **🕵️‍♂️ Cybersecurity & OSINT:** Developing customized vulnerability scanners, writing Python network scripts, and practicing offensive security architectures.
-* **⚙️ Low-Level Programming:** Leveraging **C++** to handle raw network sockets, packet engineering, and deep hardware optimization.
-* **🤖 Scripting & Automation:** Creating rapid custom scripts (Python + Selenium) for network routing, proxy handling, and system automation.
-* **🔌 Hardware Engineering:** Building custom electronic communication rigs using microcontrollers like the ESP8266 and nRF24L01 long-range modules.
-
----
-
 ## 📂 Project Matrix: The 10-Project Roadmap
 
 I am building 10 production-grade projects tracking my path from networking foundations to advanced systems defense and offensive auditing tools.

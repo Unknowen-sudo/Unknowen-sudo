@@ -4,7 +4,35 @@
 
 ## 📊 Connection Diagnostics
 
-```bash
-> OPERATOR      : Joe (17y/o Security Dev & Core Builder)
-> MAIN TARGETS  : Cybersecurity, Offensive Security Tools, Low-Level Networking
-> ENVIRONMENTS  : Kali Linux 🐧 | Python Automation Suite | C++ Core Eng
+> **OPERATOR** : Joe (17y/o Security Dev)  
+> **MAIN TARGETS** : Cybersecurity, Bug hunting  
+> **PROGRAMMING LANGUAGES** :  
+> <img src="https://www.python.org/static/img/python-logo.png" height="30" alt="Python" /> &nbsp;&nbsp; <img src="https://isocpp.org/assets/images/cpp_logo.png" height="30" alt="C++" />
+
+---
+
+## ⚡ Core Operational Capabilities
+
+* **🕵️‍♂️ Cybersecurity & OSINT:** Developing customized vulnerability scanners, writing Python network scripts, and practicing offensive security architectures.
+* **⚙️ Low-Level Programming:** Leveraging **C++** to handle raw network sockets, packet engineering, and deep hardware optimization.
+* **🤖 Scripting & Automation:** Creating rapid custom scripts (Python + Selenium) for network routing, proxy handling, and system automation.
+* **🔌 Hardware Engineering:** Building custom electronic communication rigs using microcontrollers like the ESP8266 and nRF24L01 long-range modules.
+
+---
+
+## 📂 Project Matrix: The 10-Project Roadmap
+
+I am building 10 production-grade projects tracking my path from networking foundations to advanced systems defense and offensive auditing tools.
+
+| Designation | Project Vector | Core Architecture | Current Status |
+| :--- | :--- | :--- | :--- |
+| **Project 01** | `⚡ Async-Scan` | Multi-Threaded TCP Port Scanner (Python Sockets) | *[IN DEVELOPMENT]* |
+| **Project 02** | `⌨️ System-Hook` | OS Native Keylogger & API Event Auditor (C++) | *[QUEUED]* |
+| **Project 03** | `🦈 Wire-Sniff` | Raw Socket Packet Sniffer & Header Parser (Python) | *[QUEUED]* |
+| **Project 04** | `🛡️ MitM-Forge` | Layer 2 ARP Spoofer & Traffic Manipulation (C++) | *[QUEUED]* |
+| **Project 05** | `📁 Dir-Buster` | Asynchronous Web Hidden Directory Finder (Python) | *[QUEUED]* |
+| **Project 06** | `📡 Vuln-Audit` | Automated Network Vulnerability Auditor (Python) | *[QUEUED]* |
+| **Project 07** | `🔐 Crypt-Chat` | AES/RSA Encrypted Secure Local Chat Network (C++) | *[QUEUED]* |
+| **Project 08** | `🎛️ Command-C2` | Obfuscated C2 Persistence Protocol Agent (Python) | *[QUEUED]* |
+| **Project 09** | `🧬 Inject-Scan` | Process Memory Injector & Core String Scanner (C++)| *[QUEUED]* |
+| **Project 10** | `🌐 Central-Hub` | Automated Interactive Developer Dashboard Portfolio | *[QUEUED]* |

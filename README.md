@@ -15,8 +15,8 @@ I am building 10 production-grade projects tracking my path from networking foun
 
 | Designation | Project Vector | Core Architecture | Current Status |
 | :--- | :--- | :--- | :--- |
-| **Project 01** | ⚡ Async-Scan | Simple Single-Threaded TCP Port Scanner (Python Sockets) | *[IN DEVELOPMENT]* |
-| **Project 02** | ⌨️ System-Hook | Local Keystroke Event Logger & File Exfiltrator (Python) | *[QUEUED]* |
+| **Project 01** | ⚡ Async-Scan | Simple Single-Threaded TCP Port Scanner (Python Sockets) | *[COMPLETED]* |
+| **Project 02** | ⌨️ System-Hook | Local Keystroke Event Logger & File Exfiltrator (Python) | *[COMPLETED]* |
 | **Project 03** | 🦈 Wire-Sniff | Basic Network Packet Sniffer & IP Analyzer (Python Scapy) | *[QUEUED]* |
 | **Project 04** | 🛡️ MitM-Forge | Local Network Live Host & MAC Address Scanner (Python Scapy) | *[QUEUED]* |
 | **Project 05** | 📁 Dir-Buster | Synchronous Web Directory & Hidden Path Finder (Python) | *[QUEUED]* |
